@@ -1,7 +1,0 @@
-streamlit
-stmol
-py3Dmol
-requests
-biotite
-biopython
-ipywidgets
