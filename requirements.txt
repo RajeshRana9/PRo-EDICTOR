@@ -1,9 +1,7 @@
-python==3.10
 streamlit
 stmol
 py3Dmol
 requests
 biotite
 biopython
-ipython_genutils
 ipywidgets
